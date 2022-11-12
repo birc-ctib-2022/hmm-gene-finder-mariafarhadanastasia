@@ -50,7 +50,7 @@ from fasta import read_fasta_file
 ```
 
 With the function in hand, we can try to load one of the genomes and see what is in the file:
-
+ 
 
 ```python
 genome1 = read_fasta_file('data/genome1.fa')
